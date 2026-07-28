@@ -14,3 +14,10 @@ Features:
 - Class labels
 - Reference Brix values
 
+### Three-Class Setup
+- appendix_raw_dataset1.csv
+- appendix_preprocessed_dataset1.csv
+
+### Binary-Class Setup
+- appendix_raw_dataset2.csv
+- appendix_preprocessed_dataset2.csv
