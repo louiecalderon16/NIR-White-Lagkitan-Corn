@@ -1,4 +1,4 @@
-# NIR White Lagkitan Corn Dataset
+# NIR White Lagkitan Corn
 
 This repository contains the supplementary data and code for the undergraduate design project 
 "Development of a Near-Infrared (NIR) Spectroscopy-Based Classifier for Non-Destructive Sweetness 
