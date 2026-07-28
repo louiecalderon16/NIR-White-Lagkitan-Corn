@@ -6,6 +6,7 @@ This repository contains the raw spectral measurements collected using an AS7265
 
 ## Dataset Description
 The dataset contains raw spectral measurements acquired from White Lagkitan corn samples before preprocessing.
+It also includes the preprocessed dataset.
 
 Features:
 - Sample number
