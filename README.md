@@ -2,8 +2,7 @@
 
 This repository contains the supplementary data and code for the undergraduate design project 
 "Development of a Near-Infrared (NIR) Spectroscopy-Based Classifier for Non-Destructive Sweetness 
-Level of White Lagkitan Corn." It accompanies the appendices of the manuscript, which reference this 
-repository for content not included in print due to volume.
+Level of White Lagkitan Corn."
 
 ## Repository Structure
 
