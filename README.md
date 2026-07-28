@@ -1,23 +1,16 @@
-# NIR-White-Lagkitan-Corn-Dataset
-Raw spectral dataset for NIR-based sweetness classification of White Lagkitan corn
+# NIR White Lagkitan Corn Dataset
 
-This repository contains the raw spectral measurements collected using an AS7265x spectral sensor for the study:
-"DEVELOPMENT OF A NEAR-INFRARED (NIR) SPECTROSCOPY-BASED CLASSIFIER FOR NON-DESTRUCTIVE SWEETNESS LEVEL OF WHITE LAGKITAN CORN"
+This repository contains the supplementary data and code for the undergraduate design project 
+"Development of a Near-Infrared (NIR) Spectroscopy-Based Classifier for Non-Destructive Sweetness 
+Level of White Lagkitan Corn." It accompanies the appendices of the manuscript, which reference this 
+repository for content not included in print due to volume.
 
-## Dataset Description
-The dataset contains raw spectral measurements acquired from White Lagkitan corn samples before preprocessing.
-It also includes the preprocessed dataset.
+## Repository Structure
 
-Features:
-- Sample number
-- Spectral channels (730 nm, 760 nm, 810 nm, 860 nm, 900 nm, 940 nm)
-- Class labels
-- Reference Brix values
+## Notes
 
-### Three-Class Setup
-- appendix_raw_dataset1.csv
-- appendix_preprocessed_dataset1.csv
-
-### Binary-Class Setup
-- appendix_raw_dataset2.csv
-- appendix_preprocessed_dataset2.csv
+- **Dataset 1** refers to the three-class classification setup (Bland, Average, Sweet).
+- **Dataset 2** refers to the binary classification setup (Sweet, Not Sweet).
+- Preprocessed datasets reflect the data after scan-level filtering, SNV normalization, and median 
+  aggregation, and are the datasets actually used for model training and evaluation.
+- Raw datasets contain the unprocessed spectral scans prior to preprocessing.
