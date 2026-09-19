@@ -32,6 +32,8 @@ Contains the raw and preprocessed spectral datasets used during model developmen
 
 - `functionality_test.xlsx` — Trial-by-trial prototype functionality test records
 - `kappa_significance_test.py` — Cohen's Kappa and significance calculation for the 50-sample comparative evaluation
+- `battery_runtime_benchmark.py` — Automated continuous-use battery runtime benchmark for the deployed prototype
+- `inference_latency_benchmark.py` — Raspberry Pi 4 model inference latency benchmark
 
 ### reproducibility/
 
